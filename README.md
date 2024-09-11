@@ -1,13 +1,13 @@
-<h1 align="center">HELLO, HOLA I´M HARDY</h1>
+<h1 align="center">HELLO! I´M HARDY</h1>
 <h3 align="center">También conocido como (Mario, Forever Now, Hardx)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" /> </p>
 
-- I have a YouTube channel called [https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
+- I have a YouTube channel called [HardAndBetter](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
 
 - I love graphic design **(Photoshop, Blender, Vegas Pro)**
 
-- My Favourite Song Is [https://open.spotify.com/intl-es/track/1AdYZ6X00nXmO613Y7GJOl?si=4d553df2b21940de](https://open.spotify.com/intl-es/track/1AdYZ6X00nXmO613Y7GJOl?si=4d553df2b21940de)
+- My Favourite Song Is [I Miss You](https://open.spotify.com/intl-es/track/1AdYZ6X00nXmO613Y7GJOl?si=4d553df2b21940de)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
