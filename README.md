@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" /> </p>
 
-- I have a YouTube channel called HardAndBetter [HardAndBetter](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
+- I have a YouTube channel called [https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
 
 - I love graphic design **(Photoshop, Blender, Vegas Pro)**
+
+- My Favourite Song Is [https://open.spotify.com/intl-es/track/1AdYZ6X00nXmO613Y7GJOl?si=4d553df2b21940de](https://open.spotify.com/intl-es/track/1AdYZ6X00nXmO613Y7GJOl?si=4d553df2b21940de)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
