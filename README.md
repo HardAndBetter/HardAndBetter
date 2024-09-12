@@ -5,7 +5,7 @@
 
 - I have a YouTube channel called [HardAndBetter](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
 
-- I have a YouTube channel called [HardAndBetter](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
+- My Itch.io! *not done yet!* [HardAndBetter](https://hardandbetterstudios.itch.io/)
 
 - My Favourite Song Is [I Miss You](https://open.spotify.com/intl-es/track/1AdYZ6X00nXmO613Y7GJOl?si=4d553df2b21940de)
 
