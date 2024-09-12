@@ -13,7 +13,7 @@
 
 - I'm from Zaragoza, *Spain.* Hola!
 
-<img src="https://media1.tenor.com/m/8tQKmuAkCvcAAAAC/kawaii-pink.gif" alt="unity" width="40" height="40"/>
+<img src="https://media1.tenor.com/m/8tQKmuAkCvcAAAAC/kawaii-pink.gif" alt="unity" width="400" height="600"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
