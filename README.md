@@ -7,11 +7,13 @@
 
 - My Itch.io! *not done yet!* [HardAndBetter](https://hardandbetterstudios.itch.io/)
 
-- My Favourite Song Is [Helena](https://open.spotify.com/intl-es/track/5dTHtzHFPyi8TlTtzoz1J9?si=467eb78095b44674) By *My Chemical Romance*
+- My Favourite Song Is [Helena](https://open.spotify.com/intl-es/track/5dTHtzHFPyi8TlTtzoz1J9?si=467eb78095b44674) By: *My Chemical Romance*
 
 - I love graphic design **(Photoshop, Blender, Vegas Pro)**
 
 - I'm from Zaragoza, *Spain.* Hola!
+
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
