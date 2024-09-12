@@ -2,11 +2,11 @@
 <h3 align="center">También conocido como (Mario, Forever Now, Hardx)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" /> </p>
-<img src="https://media1.tenor.com/m/h_UdcwafeoQAAAAC/blue-divider.gif" alt="wo" width="494" height="40"/>
+
 - I have a YouTube channel called [HardAndBetter](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
 
 - My Itch.io! *not done yet!* [HardAndBetter](https://hardandbetterstudios.itch.io/)
-
+https://i.pinimg.com/originals/c3/01/bf/c301bff665e4b01b060b2bd8ad7bfa1e.gif
 - My Favourite Song Is [Helena](https://open.spotify.com/intl-es/track/5dTHtzHFPyi8TlTtzoz1J9?si=467eb78095b44674) By: *My Chemical Romance*
 
 - I love graphic design **(Photoshop, Blender, Vegas Pro)**
@@ -14,7 +14,8 @@
 - I'm from Zaragoza, *Spain.* Hola!
 
 <img src="https://media1.tenor.com/m/h_UdcwafeoQAAAAC/blue-divider.gif" alt="wo" width="494" height="40"/>
-
+<img src="https://i.pinimg.com/originals/c3/01/bf/c301bff665e4b01b060b2bd8ad7bfa1e.gif" alt="wo" width="494" height="40"/>
+<img src="https://media1.tenor.com/m/h_UdcwafeoQAAAAC/blue-divider.gif" alt="wo" width="494" height="40"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/hardandbetter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hardandbetter" height="30" width="40" /></a>
