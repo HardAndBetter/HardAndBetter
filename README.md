@@ -1,8 +1,8 @@
 <h1 align="center">HELLO! I´M HARDY</h1>
 <h3 align="center">También conocido como (Mario, Forever Now, Hardx)</h3>
-<img src="https://media1.tenor.com/m/h_UdcwafeoQAAAAC/blue-divider.gif" alt="wo" width="494" height="40"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" /> </p>
+<img src="https://media1.tenor.com/m/h_UdcwafeoQAAAAC/blue-divider.gif" alt="wo" width="494" height="40"/>
 - I have a YouTube channel called [HardAndBetter](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
 
 - My Itch.io! *not done yet!* [HardAndBetter](https://hardandbetterstudios.itch.io/)
