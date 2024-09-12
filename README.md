@@ -1,6 +1,6 @@
 <h1 align="center">HELLO! I´M HARDY</h1>
 <h3 align="center">También conocido como (Mario, Forever Now, Hardx)</h3>
-
+<img src="https://media1.tenor.com/m/h_UdcwafeoQAAAAC/blue-divider.gif" alt="wo" width="494" height="40"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" /> </p>
 
 - I have a YouTube channel called [HardAndBetter](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
@@ -13,7 +13,7 @@
 
 - I'm from Zaragoza, *Spain.* Hola!
 
-<img src="https://media1.tenor.com/m/h_UdcwafeoQAAAAC/blue-divider.gif" alt="unity" width="494" height="40"/>
+<img src="https://media1.tenor.com/m/h_UdcwafeoQAAAAC/blue-divider.gif" alt="wo" width="494" height="40"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
