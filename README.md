@@ -5,9 +5,11 @@
 
 - I have a YouTube channel called [HardAndBetter](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
 
-- I love graphic design **(Photoshop, Blender, Vegas Pro)**
+- I have a YouTube channel called [HardAndBetter](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
 
 - My Favourite Song Is [I Miss You](https://open.spotify.com/intl-es/track/1AdYZ6X00nXmO613Y7GJOl?si=4d553df2b21940de)
+
+- I love graphic design **(Photoshop, Blender, Vegas Pro)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
