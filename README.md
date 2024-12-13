@@ -35,3 +35,17 @@
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
+
+<h3 align="center">My Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,arduino,raspberrypi,unity" />
+  </a>
+</p>
+
+<h3 align="center">My Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
