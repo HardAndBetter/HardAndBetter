@@ -2,7 +2,8 @@
 <h3 align="center">Front-End Developer</h3>
 <p align="center">I Have A Youtube Channel Called: <a href="www.youtube.com/@HardAndBetter" target="_blank">HardAndBetter</a></p>
 <p align="center">I Love Graphic Design (Photoshop, Blender, Vegas Pro</p>
-<p align="center">I Used To Love Sundays</p>
+<p align="center">IUsedToLoveSundays</p>
+<p align="center">LostAndFound</p>
 
  <div align="center" style="margin-top: 50px;">
         <a href="https://open.spotify.com/playlist/2IkzPQMnuKQsqKHeCmtBYn?si=53cb40a24fb34722" target="_blank" rel="noopener noreferrer">
@@ -55,5 +56,7 @@
   </a>
 </p>
 <h1></h1>
-Believe in you and people will.
+<p align="center">- Believe In You And People Will -</p>
+<p align="center">Hard</p>
+<p align="center">❤</p>
 <h1></h1>
