@@ -1,5 +1,5 @@
 <h1 align="center">HELLO! I´M HARDY</h1>
-<h3 align="center">También conocido como (Mario, Forever Now, Hardx)</h3>
+<h3 align="center">También conocido como Hardx</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" />
@@ -39,13 +39,28 @@
 <h3 align="center">My Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,arduino,raspberrypi,unity" />
+  </a>
+</p>
+
+<h3 align="center">My Graphic Desing Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pr,blender" />
+  </a>
+</p>
+
+<h3 align="center">Currently Learning</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
+
+<h3 align="center">My Socials</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,arduino,raspberrypi,unity" />
   </a>
 </p>
 
-<h3 align="center">My Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
-</p>
