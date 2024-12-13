@@ -4,7 +4,8 @@
 <p align="center">I'm A Staff Member On PyE</p>
 <p align="center">I Love Graphic Design</p>
 
-[![My Spotify Playlist](https://via.placeholder.com/600x150?text=Click+to+listen+on+Spotify)](https://open.spotify.com/playlist/2IkzPQMnuKQsqKHeCmtBYn?utm_source=generator)
+[![Spotify Playlist](https://i.scdn.co/image/ab67616d0000b2737ec4e5e26cd2df8e2dc73e0f)](https://open.spotify.com/playlist/2IkzPQMnuKQsqKHeCmtBYn?utm_source=generator)
+
 
 
 <p align="center">
