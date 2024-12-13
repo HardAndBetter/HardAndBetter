@@ -62,7 +62,7 @@
 <h3 align="center">My Socials</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter" />
+    <img src="https://skillicons.dev/icons?i=youtube,discord,instagram,twitter,steam" />
   </a>
 </p>
 
