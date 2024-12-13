@@ -13,9 +13,7 @@
 
 - I'm from Zaragoza, *Spain.* Hola!
 
-<img src="https://media1.tenor.com/m/h_UdcwafeoQAAAAC/blue-divider.gif" alt="wo" width="500" height="40"/>
 <img src="https://i.pinimg.com/originals/c3/01/bf/c301bff665e4b01b060b2bd8ad7bfa1e.gif" alt="wo" width="500" height="281"/>
-<img src="https://media1.tenor.com/m/h_UdcwafeoQAAAAC/blue-divider.gif" alt="wo" width="500" height="40"/>
 
 <p align="center">
   <a href="https://skillicons.dev">
