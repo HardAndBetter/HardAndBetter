@@ -62,7 +62,14 @@
 <h3 align="center">My Socials</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=youtube,discord,instagram,twitter,steam" />
+    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter" />
+  </a>
+</p>
+
+<h3 align="center">My Operative Systems</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Apple,Windows,Linux" />
   </a>
 </p>
 
