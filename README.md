@@ -1,7 +1,5 @@
-<p align="center">
 <h1 align="center">HELLO! I´M HARDY</h1>
 <h3 align="center">También conocido como (Mario, Forever Now, Hardx)</h3>
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" /> </p>
 
 - I have a YouTube channel called [HardAndBetter](https://www.youtube.com/channel/UCBGKQOsuOunPENPod5hrMlw)
