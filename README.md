@@ -1,7 +1,8 @@
 <h1 align="center">HELLO! I´M HARDY</h1>
 <h3 align="center">Front-End Developer</h3>
 <p align="center">I Have A Youtube Channel Called: <a href="www.youtube.com/@HardAndBetter" target="_blank">HardAndBetter</a></p>
-<p align="center">I Love Graphic Design</p>
+<p align="center">I Love Graphic Design (Photoshop, Blender, Vegas Pro</p>
+<p align="center">I Used To Love Sundays</p>
 
  <div align="center" style="margin-top: 50px;">
         <a href="https://open.spotify.com/playlist/2IkzPQMnuKQsqKHeCmtBYn?si=53cb40a24fb34722" target="_blank" rel="noopener noreferrer">
@@ -33,23 +34,26 @@
   </a>
 </p>
 
-<h3 align="center">Socials & Operating Systems</h3>
+<h3 align="center">My Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,arduino,raspberrypi,unity,github,git,windows,apple" />
   </a>
 </p>
 
-<h3 align="center">Socials & Operating Systems</h3>
+<h3 align="center">Socials</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter" />
   </a>
 </p>
 
-<h3 align="center">Socials & Operating Systems</h3>
+<h3 align="center">Currently Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=java" />
   </a>
 </p>
+<h1></h1>
+Believe in you and people will.
+<h1></h1>
