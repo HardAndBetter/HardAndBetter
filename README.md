@@ -29,9 +29,9 @@
   <img src="https://i.pinimg.com/736x/b0/a8/22/b0a82248cea73554514d9618995f9de9.jpg" alt="wo" width="250" height="300"/>
 </p>
 
+<h3 align="center">My Languages</h3>
 <p align="center">
-    <h3>My Languages</h3>
-    <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
