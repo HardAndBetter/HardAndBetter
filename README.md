@@ -25,6 +25,8 @@
   - I'm from Zaragoza, <em>Spain.</em> Hola!
 </p>
 
+<h3 align="center">Think Different, - Steve Jobs</h3>
+
 <p align="center">
   <img src="https://i.pinimg.com/736x/f6/25/42/f62542d6c37a229f50ce20130fdab55b.jpg" alt="wo" width="650" height="382"/>
 </p>
