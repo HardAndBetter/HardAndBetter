@@ -14,21 +14,23 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" />
 
+<h3 align="center">Think Different - Steve Jobs</h3>
+
 <p align="center">
   <img src="https://i.pinimg.com/736x/f6/25/42/f62542d6c37a229f50ce20130fdab55b.jpg" alt="wo" width="650" height="382"/>
 </p>
 
-<h3 align="center">My Skills</h3>
+<h3 align="center">My Lenguages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
 
-<h3 align="center">Graphic Design & Learning</h3>
+<h3 align="center">Graphic Design</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,pr,blender,java" />
+    <img src="https://skillicons.dev/icons?i=ps,pr,blender" />
   </a>
 </p>
 
