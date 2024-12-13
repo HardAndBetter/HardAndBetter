@@ -3,7 +3,8 @@
 <p align="center">I Have A Youtube Channel Called HardAndBetter</p>
 <p align="center">I'm A Staff Member On PyE</p>
 <p align="center">I Love Graphic Design</p>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2IkzPQMnuKQsqKHeCmtBYn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12" src="https://open.spotify.com/embed/playlist/2IkzPQMnuKQsqKHeCmtBYn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" />
