@@ -4,7 +4,8 @@
 <p align="center">I'm A Staff Member On PyE</p>
 <p align="center">I Love Graphic Design</p>
 
-[![Spotify Playlist](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2IkzPQMnuKQsqKHeCmtBYn?utm_source=generator)
+[![My Spotify Playlist](https://via.placeholder.com/600x150?text=Click+to+listen+on+Spotify)](https://open.spotify.com/playlist/2IkzPQMnuKQsqKHeCmtBYn?utm_source=generator)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" />
