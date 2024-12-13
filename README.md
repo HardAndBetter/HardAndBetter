@@ -4,7 +4,7 @@
 <p align="center">I'm A Staff Member On PyE</p>
 <p align="center">I Love Graphic Design</p>
 
- <img src="banner1.png" alt="Banner Image" style="max-width: 100%; height: auto;">
+ <img src="banner1.png">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" />
