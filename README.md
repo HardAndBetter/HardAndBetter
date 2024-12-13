@@ -1,6 +1,6 @@
 <h1 align="center">HELLO! I´M HARDY</h1>
 <h3 align="center">Front-End Developer</h3>
-<h1 align="center">Front-End Developer</h1>
+<h4 align="center">Front-End Developer</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" />
@@ -20,6 +20,20 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,pr,blender,java" />
+  </a>
+</p>
+
+<h3 align="center">Socials & Operating Systems</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,apple,windows" />
+  </a>
+</p>
+
+<h3 align="center">Socials & Operating Systems</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,apple,windows" />
   </a>
 </p>
 
