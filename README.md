@@ -4,9 +4,7 @@
 <p align="center">I'm A Staff Member On PyE</p>
 <p align="center">I Love Graphic Design</p>
 
-[![Spotify Playlist](https://i.scdn.co/image/ab67616d0000b2737ec4e5e26cd2df8e2dc73e0f)](https://open.spotify.com/playlist/2IkzPQMnuKQsqKHeCmtBYn?utm_source=generator)
-
-
+ <img src="banner1.png" alt="Banner Image" style="max-width: 100%; height: auto;">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" />
