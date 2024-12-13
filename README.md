@@ -69,7 +69,7 @@
 <h3 align="center">My Operative Systems</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Apple,Windows,Linux" />
+    <img src="https://skillicons.dev/icons?i=Apple,Windows" />
   </a>
 </p>
 
