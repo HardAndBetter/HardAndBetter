@@ -12,7 +12,7 @@
 
 - I'm from Zaragoza, *Spain.* Hola!
 
-<img src="https://i.pinimg.com/originals/c3/01/bf/c301bff665e4b01b060b2bd8ad7bfa1e.gif" alt="wo" width="500" height="281"/>
+<img src="https://i.pinimg.com/736x/b0/a8/22/b0a82248cea73554514d9618995f9de9.jpg" alt="wo" width="500" height="500"/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
