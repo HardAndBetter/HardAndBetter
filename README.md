@@ -1,6 +1,6 @@
 <h1 align="center">HELLO! I´M HARDY</h1>
 <h3 align="center">Front-End Developer</h3>
-<p align="center">I Have A Youtube Channel Called HardAndBetter</p>
+<p align="center">I Have A Youtube Channel Called: <a href="www.youtube.com/@HardAndBetter" target="_blank">HardAndBetter</a></p>
 <p align="center">I Love Graphic Design</p>
 
  <div align="center" style="margin-top: 50px;">
