@@ -4,11 +4,10 @@
 <p align="center">I'm A Staff Member On PyE</p>
 <p align="center">I Love Graphic Design</p>
 
- <div style="text-align: center; margin-top: 50px;">
+ <div align="center" style="margin-top: 50px;">
         <a href="https://open.spotify.com/playlist/2IkzPQMnuKQsqKHeCmtBYn?si=53cb40a24fb34722" target="_blank" rel="noopener noreferrer">
             <img src="https://raw.githubusercontent.com/HardAndBetter/HardAndBetter/refs/heads/main/Banner1.png" 
-                 alt="Spotify Playlist Banner" 
-                 style="max-width: 100%; height: auto;">
+                 alt="Spotify Playlist Banner" style="max-width: 100%; height: auto;">
         </a>
     </div>
 
