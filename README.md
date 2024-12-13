@@ -46,7 +46,7 @@
 <h3 align="center">My Graphic Desing Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,blender" />
+    <img src="https://skillicons.dev/icons?i=ps,pr,blender" />
   </a>
 </p>
 
