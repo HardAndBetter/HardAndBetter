@@ -1,9 +1,9 @@
-<h1 align="center">HELLO! I´M HARDY</h1>
+<h1 align="center">Hi! My Name Is Hardy</h1>
 <h3 align="center">Front-End Developer</h3>
 <p align="center">I Have A Youtube Channel Called: <a href="www.youtube.com/@HardAndBetter" target="_blank">HardAndBetter</a></p>
-<p align="center">I Love Graphic Design (Photoshop, Blender, Vegas Pro</p>
+<p align="center">I Love Graphic Design (Photoshop, Blender, Vegas Pro)</p>
 <p align="center">IUsedToLoveSundays</p>
-<p align="center">LostAndFound</p>
+<p align="center">Want To Buy Me A Coffee? <a href="https://ko-fi.com/hardandbetter" target="_blank">Donate Me!</a></p>
 
  <div align="center" style="margin-top: 50px;">
         <a href="https://open.spotify.com/playlist/2IkzPQMnuKQsqKHeCmtBYn?si=53cb40a24fb34722" target="_blank" rel="noopener noreferrer">
@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/f6/25/42/f62542d6c37a229f50ce20130fdab55b.jpg" alt="wo" width="650" height="382"/>
 </p>
-<p align="center">Love <a href="https://discord.com/invite/programacion" target="_blank">PyE</a></p>
+<p align="center">I'm Staff On <a href="https://discord.com/invite/programacion" target="_blank">PyE</a></p>
 <h1></h1>
 
 <h3 align="center">My Lenguages</h3>
@@ -56,7 +56,14 @@
   </a>
 </p>
 <h1></h1>
-<p align="center">- Believe In You And People Will -</p>
-<p align="center">Hard</p>
-<p align="center">❤</p>
+
+
+<div align="center">
+        <a href="https://git.io/streak-stats">
+            <img src="https://streak-stats.demolab.com?user=HardAndBetter&theme=synthwave&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak">
+        </a>
+    </div>
+
+<p align="center">- Id Como Una Plaga Contra El Aburrimiento Del Mundo -</p>
+<p align="center">Ezra Pound</p>
 <h1></h1>
