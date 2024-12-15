@@ -1,3 +1,4 @@
+<h1></h1>
 <h1 align="center">Hi! My Name Is Hardy</h1>
 <h3 align="center">Front-End Developer</h3>
 <p align="center">I Have A Youtube Channel Called: <a href="www.youtube.com/@HardAndBetter" target="_blank">HardAndBetter</a></p>
@@ -64,6 +65,10 @@
         </a>
     </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HardAndBetter&show_icons=true&theme=radical&hide_border=true" alt="HardAndBetter GitHub stats">
+</p>
+<h1></h1>
 <p align="center">- Id Como Una Plaga Contra El Aburrimiento Del Mundo -</p>
 <p align="center">Ezra Pound</p>
 <h1></h1>
