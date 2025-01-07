@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/f6/25/42/f62542d6c37a229f50ce20130fdab55b.jpg" alt="wo" width="650" height="382"/>
 </p>
-<p align="center">I'm Staff On <a href="https://discord.com/invite/programacion" target="_blank">PyE</a></p>
+<p align="center">I'm Staff On <a href="amazon.com" target="_blank">?</a></p>
 <h1></h1>
 
 <h3 align="center">My Lenguages</h3>
