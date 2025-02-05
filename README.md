@@ -14,10 +14,10 @@
     </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" />
-<h3 align="center">Think Different - Steve Jobs</h3>
+<h3 align="center">SUPER 8</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/f6/25/42/f62542d6c37a229f50ce20130fdab55b.jpg" alt="wo" width="650" height="382"/>
+  <img src="https://i.scdn.co/image/ab67616d0000b27361cd919cf24eee4e4153c177" alt="wo" width="400" height="400" alt="https://open.spotify.com/intl-es/track/2phdCylIBc8WjK7llBajFi?si=2c698e62658c4ff4"/>
 </p>
 <p align="center">I'm Staff On <a href="amazon.com" target="_blank">?</a></p>
 <h1></h1>
