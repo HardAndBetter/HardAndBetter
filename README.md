@@ -19,7 +19,8 @@
 <p align="center">
   <img src="https://i.scdn.co/image/ab67616d0000b27361cd919cf24eee4e4153c177" width="400" height="400"/>
 </p>
-<p align="center">I'm Staff On <a href="amazon.com" target="_blank">?</a></p>
+<h4 align="center">LOS PLANETAS</h4>
+<p align="center">💕<a href="https://discord.gg/programacion" target="_blank">PyE</a></p>
 <h1></h1>
 
 <h3 align="center">My Lenguages</h3>
