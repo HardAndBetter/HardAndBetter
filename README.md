@@ -14,12 +14,12 @@
     </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardandbetter&label=Profile%20views&color=0e75b6&style=flat" alt="hardandbetter" />
-<h3 align="center">SUPER 8</h3>
+<h3 align="center">P҉͈̗̾́͗E̶͔̱̟̟̓͐ͅO̵̖̫̭̱̅͂͗̿̀P̷͍̖̮̐͆͑L̷̤͈͇͈͒̀̂E̶̜̥̥̣̠̽̇͑̇ D҈̱͕̞͔̋̀̿̒͒Ḙ̷̮͖͚̈́́̽̓̀S̷̱̟̾͑̇̿T̴͈̍̐̏́ͅṚ̷͖̊̊Ŏ̷̭̫̖͉͐̉̑Ÿ̷̗̯͈́͊ Ț̶̤͉̬̮̒́̈̚̚Ĥ̷̟̖̞̱̇̂E̶̥̝͗̔̃̚ T҉̯̪̓̂̆͊R҉͙͚̞̱̉͊̽̎̇U̴͍̲͓̇̀̋́T̷̟͕̫̗̓͒H̴͖͎̲̲̠̐̈̀̋̒</h3>
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27361cd919cf24eee4e4153c177" width="400" height="400"/>
+  <img src="https://www.rockandrollarmy.com/magazine/wp-content/uploads/2024/10/manic_street_preachers-critical_thinking_cover_artwork-1280x720.png" width="800" height="400"/>
 </p>
-<h4 align="center">LOS PLANETAS</h4>
+<h4 align="center">So much for calculations, So much for standing tall, So much for implications, So much for the decline and fall.</h4>
 <p align="center">💕<a href="https://discord.gg/programacion" target="_blank">PyE</a></p>
 <h1></h1>
 
